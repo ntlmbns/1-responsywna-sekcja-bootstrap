@@ -1,0 +1,44 @@
+* {
+    box-sizing: content-box;
+    body-margin: 0;
+  }
+  
+  .skill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  
+  .skill-icon {
+    margin-top: 10%;
+    margin-bottom: 5%;
+    text-align: center;
+    border: solid rgb(238, 235, 235);
+    background-color: rgb(238, 235, 235);
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #my-skills {
+    border-bottom: solid lightgray 1px;
+  }
+  
+  i {
+    color: darkorange;
+    text-align: center;
+    font-size: 50px;
+    vertical-align: middle;
+  }
+  
+  skills {
+    text-align: center;
+  }
+  
+  
+  
